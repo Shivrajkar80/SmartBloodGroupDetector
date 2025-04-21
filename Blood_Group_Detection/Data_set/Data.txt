@@ -1,0 +1,5 @@
+Dataset consists of labeled images of different blood groups.
+
+You can collect your own images or use public datasets.
+
+Preprocessing is done to enhance image features before classification.
